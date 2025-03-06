@@ -1,6 +1,6 @@
 **ACV_Nevo**
 **Overview:**
-ACV_Nevo is an automation testing framework designed to validate web applications using Selenium, NUNIT, and C#. This framework follows the Page Object Model (POM) for better maintainability and scalability.
+ACV_Nevo is an automation testing framework designed to validate Nevo application using Selenium, NUNIT, and C#. This framework follows the Page Object Model (POM) for better maintainability and scalability.
 
 **Features:**
 •	Selenium WebDriver for browser automation
