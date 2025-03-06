@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nevo\\Nevo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|c:\\nevo\\nevo\\nevo\\commonutilities\\commonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|solutionrelative:nevo\\commonutilities\\commonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|c:\\nevo\\nevo\\nevo\\base\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|solutionrelative:nevo\\base\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|c:\\nevo\\nevo\\nevo\\commonutilities\\verification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|solutionrelative:nevo\\commonutilities\\verification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|c:\\nevo\\nevo\\nevo\\configuration\\configuration.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|solutionrelative:nevo\\configuration\\configuration.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|c:\\nevo\\nevo\\nevo\\data\\testdatautility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|solutionrelative:nevo\\data\\testdatautility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|c:\\nevo\\nevo\\nevo\\helperutilities\\netlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|solutionrelative:nevo\\helperutilities\\netlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|c:\\nevo\\nevo\\nevo\\helperutilities\\waitutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|solutionrelative:nevo\\helperutilities\\waitutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|c:\\nevo\\nevo\\nevo\\settings\\configsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|solutionrelative:nevo\\settings\\configsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|c:\\nevo\\nevo\\nevo\\test\\nevotestcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|solutionrelative:nevo\\test\\nevotestcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|c:\\nevo\\nevo\\nevo\\pageobject\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|solutionrelative:nevo\\pageobject\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|c:\\nevo\\nevo\\nevo\\pageobject\\browsevehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|solutionrelative:nevo\\pageobject\\browsevehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|c:\\nevo\\nevo\\nevo\\pageobject\\journeyplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|solutionrelative:nevo\\pageobject\\journeyplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|c:\\nevo\\nevo\\nevo\\pageobject\\helpandadvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5589B7E0-383A-44B0-B2C8-D8881312C563}|Nevo\\Nevo.csproj|solutionrelative:nevo\\pageobject\\helpandadvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "C:\\Nevo\\Nevo\\Nevo\\Base\\BaseClass.cs",
+              "RelativeDocumentMoniker": "Nevo\\Base\\BaseClass.cs",
+              "ToolTip": "C:\\Nevo\\Nevo\\Nevo\\Base\\BaseClass.cs",
+              "RelativeToolTip": "Nevo\\Base\\BaseClass.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAAAHgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:11:17.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigSettings.cs",
+              "DocumentMoniker": "C:\\Nevo\\Nevo\\Nevo\\Settings\\ConfigSettings.cs",
+              "RelativeDocumentMoniker": "Nevo\\Settings\\ConfigSettings.cs",
+              "ToolTip": "C:\\Nevo\\Nevo\\Nevo\\Settings\\ConfigSettings.cs",
+              "RelativeToolTip": "Nevo\\Settings\\ConfigSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T16:09:01.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "configuration.json",
+              "DocumentMoniker": "C:\\Nevo\\Nevo\\Nevo\\Configuration\\configuration.json",
+              "RelativeDocumentMoniker": "Nevo\\Configuration\\configuration.json",
+              "ToolTip": "C:\\Nevo\\Nevo\\Nevo\\Configuration\\configuration.json",
+              "RelativeToolTip": "Nevo\\Configuration\\configuration.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T16:05:48.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Verification.cs",
+              "DocumentMoniker": "C:\\Nevo\\Nevo\\Nevo\\CommonUtilities\\Verification.cs",
+              "RelativeDocumentMoniker": "Nevo\\CommonUtilities\\Verification.cs",
+              "ToolTip": "C:\\Nevo\\Nevo\\Nevo\\CommonUtilities\\Verification.cs",
+              "RelativeToolTip": "Nevo\\CommonUtilities\\Verification.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAACYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T11:32:02.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NetLogger.cs",
+              "DocumentMoniker": "C:\\Nevo\\Nevo\\Nevo\\HelperUtilities\\NetLogger.cs",
+              "RelativeDocumentMoniker": "Nevo\\HelperUtilities\\NetLogger.cs",
+              "ToolTip": "C:\\Nevo\\Nevo\\Nevo\\HelperUtilities\\NetLogger.cs",
+              "RelativeToolTip": "Nevo\\HelperUtilities\\NetLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:40:20.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommonUtils.cs",
+              "DocumentMoniker": "C:\\Nevo\\Nevo\\Nevo\\CommonUtilities\\CommonUtils.cs",
+              "RelativeDocumentMoniker": "Nevo\\CommonUtilities\\CommonUtils.cs",
+              "ToolTip": "C:\\Nevo\\Nevo\\Nevo\\CommonUtilities\\CommonUtils.cs",
+              "RelativeToolTip": "Nevo\\CommonUtilities\\CommonUtils.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:40:48.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestDataUtility.cs",
+              "DocumentMoniker": "C:\\Nevo\\Nevo\\Nevo\\Data\\TestDataUtility.cs",
+              "RelativeDocumentMoniker": "Nevo\\Data\\TestDataUtility.cs",
+              "ToolTip": "C:\\Nevo\\Nevo\\Nevo\\Data\\TestDataUtility.cs",
+              "RelativeToolTip": "Nevo\\Data\\TestDataUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T16:05:54.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WaitUtils.cs",
+              "DocumentMoniker": "C:\\Nevo\\Nevo\\Nevo\\HelperUtilities\\WaitUtils.cs",
+              "RelativeDocumentMoniker": "Nevo\\HelperUtilities\\WaitUtils.cs",
+              "ToolTip": "C:\\Nevo\\Nevo\\Nevo\\HelperUtilities\\WaitUtils.cs",
+              "RelativeToolTip": "Nevo\\HelperUtilities\\WaitUtils.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:40:34.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NevoTestCases.cs",
+              "DocumentMoniker": "C:\\Nevo\\Nevo\\Nevo\\Test\\NevoTestCases.cs",
+              "RelativeDocumentMoniker": "Nevo\\Test\\NevoTestCases.cs",
+              "ToolTip": "C:\\Nevo\\Nevo\\Nevo\\Test\\NevoTestCases.cs",
+              "RelativeToolTip": "Nevo\\Test\\NevoTestCases.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:07:17.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Nevo\\Nevo\\Nevo\\PageObject\\HomePage.cs",
+              "RelativeDocumentMoniker": "Nevo\\PageObject\\HomePage.cs",
+              "ToolTip": "C:\\Nevo\\Nevo\\Nevo\\PageObject\\HomePage.cs",
+              "RelativeToolTip": "Nevo\\PageObject\\HomePage.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:23:51.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BrowseVehicles.cs",
+              "DocumentMoniker": "C:\\Nevo\\Nevo\\Nevo\\PageObject\\BrowseVehicles.cs",
+              "RelativeDocumentMoniker": "Nevo\\PageObject\\BrowseVehicles.cs",
+              "ToolTip": "C:\\Nevo\\Nevo\\Nevo\\PageObject\\BrowseVehicles.cs",
+              "RelativeToolTip": "Nevo\\PageObject\\BrowseVehicles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:21:28.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HelpAndAdvice.cs",
+              "DocumentMoniker": "C:\\Nevo\\Nevo\\Nevo\\PageObject\\HelpAndAdvice.cs",
+              "RelativeDocumentMoniker": "Nevo\\PageObject\\HelpAndAdvice.cs",
+              "ToolTip": "C:\\Nevo\\Nevo\\Nevo\\PageObject\\HelpAndAdvice.cs",
+              "RelativeToolTip": "Nevo\\PageObject\\HelpAndAdvice.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:04:24.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JourneyPlanner.cs",
+              "DocumentMoniker": "C:\\Nevo\\Nevo\\Nevo\\PageObject\\JourneyPlanner.cs",
+              "RelativeDocumentMoniker": "Nevo\\PageObject\\JourneyPlanner.cs",
+              "ToolTip": "C:\\Nevo\\Nevo\\Nevo\\PageObject\\JourneyPlanner.cs",
+              "RelativeToolTip": "Nevo\\PageObject\\JourneyPlanner.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAlwCYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:33:41.234Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

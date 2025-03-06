@@ -1,0 +1,6 @@
+06-03-2025 12:55:43 - Exception : Exception while clearing browser cache : Cannot access a disposed object.
+Object name: 'System.Net.Http.HttpClient'.
+06-03-2025 12:55:43 - Information : Copy test report... 
+06-03-2025 12:57:19 - Exception : Exception while clearing browser cache : Cannot access a disposed object.
+Object name: 'System.Net.Http.HttpClient'.
+06-03-2025 12:57:19 - Information : Copy test report... 
